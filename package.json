@@ -1,0 +1,18 @@
+{
+  "name": "music-bot",
+  "version": "2.0.1",
+  "main": "index.js",
+  "repository": "Nope",
+  "author": "ZerioDev",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord": "^0.8.2",
+    "discord-player": "^3.0.2",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "micro-ping": "^1.0.0",
+    "ytdl-core": "^4.9.1"
+  }
+}
